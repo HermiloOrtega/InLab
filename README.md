@@ -1,65 +1,82 @@
-# 📦 InLab
+# InLab
 
-## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+## 📍 Overview
+
+**InLab** is a corporate website developed for a Mexican business specializing in laboratory equipment and solutions. The site was built using **WordPress** and **Elementor**, providing a professional platform to showcase the company’s services, certifications, and product catalog in a clean, responsive format. 
+
+The website aimed to elevate the company’s digital presence with structured content, modern design, and SEO-focused implementation.
 
 ## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+
+The concept behind **InLab** was to build a marketing-focused website that:
+- Showcases InLab’s credibility and industry certifications.
+- Provides a clean overview of their services and product offerings.
+- Features a **WooCommerce-based catalog** to present lab products (without direct e-commerce transactions).
+- Serves as a lead generation tool through well-placed contact forms and branding consistency.
 
 ## ✨ Features & Functionality
-- Bullet list of main features 
+
+- **Homepage Slider** to introduce the brand and promotions.
+- **About Us**, **Certifications**, and **Experience** sections to build trust.
+- **Product Catalog** using WooCommerce (view-only mode).
+- **Contact Page** with embedded Google Maps and lead form.
+- **Responsive Design** for all devices.
+- **Professional Email Setup** integrated for business communications.
+- **Maintenance & Monitoring** included with the hosting plan.
 
 ## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+
+- **Platform:** WordPress
+- **Builder:** Elementor
+- **E-commerce Framework:** WooCommerce (catalog mode only)
+- **Backend Language:** PHP
+- **Frontend:** HTML, CSS, JavaScript
+- **Hosting:** Self-hosted (Managed by Developer)
+- **Design Tools:** Photoshop, Canva
+- **Email:** Business email with domain (e.g. info@inlab.com.mx)
 
 ## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
 
-## 🚀 Installation & Setup
-- **Prerequisites:** 
+- **Page Structure:** Multi-page layout for services, products, contact, about, etc.
+- **Custom Theme Elements:** Modified Elementor templates to match branding.
+- **SEO Optimization:** Basic on-page SEO with Yoast.
+- **Navigation:** Sticky header with CTA access.
 
-- **Installation Steps:** 
+## 🚀 Deployment & Hosting
 
-- **Deployment Environment:** 
+- **Hosting Provider:** Custom server managed by the developer.
+- **Domain & DNS Setup:** Fully configured by developer.
+- **Maintenance:** Performed regular updates, backups, and performance checks.
 
-- **Access:** 
+## 🧑‍💻 My Role & Contributions
 
-> **Note:** 
-
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
-
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+- Full development and deployment of the website.
+- Requirements gathering and wireframing with the client.
+- UI/UX design customization using Elementor.
+- Created and configured WooCommerce catalog.
+- Set up business emails, DNS, hosting, and backups.
+- Provided client training for WordPress usage.
 
 ## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+
+- Transitioning from a visual-only site to a structured, scalable product catalog.
+- Educating the client on the WooCommerce backend (without checkout flows).
+- Optimizing for mobile and maintaining site performance with multiple product images.
 
 ## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
 
-## 🤝 Contributing
-- How other can contribute (if open source)
+- Enable full e-commerce functionality.
+- Implement user portal for quote requests or B2B orders.
+- Add blog section for content marketing and SEO.
 
-## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+## 🧾 License
 
-## 🔗 Additional Resources
-- **Documentation:** 
+This website was developed as a client project under the **JUCOD** startup initiative. No source code is publicly available.
 
-- **Related Projects:** 
+## 🔗 Related Projects
 
-- **Live Demo Link:** 
+- [Working4U](#)
+- [Mr Cachuchero](#)
+- [Globos Toys Ericka](#)
+- [LineUp Boutique](#)
+- [HermiloOrtega.com](#)
